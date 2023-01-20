@@ -24,7 +24,6 @@ Participating in our book club is a fantastic way to read concisely and take mor
 The Grit Factor by Shannon Huffman Polson
 <td>
 What does it take for women to succeed in a male-dominated world? The Grit Factor. In writing The Grit Factor, Polson made it her mission to connect with an elite pack of tough, impressive female iconoclasts who shared with her their candid stories of combat and career.
-
 This slate of decorated leaders includes Heather Penney, one of the first female F-16 pilots, who was put on a suicide mission for 9/11; General Ann Dunwoody, the first female four-star general in the Army; Amy McGrath, the first female Marine to fly the F/A-18 in combat and a 2020 candidate for the US Senate—and dozens of other unstoppable women who got there first, including Polson herself.
 
 <td>
@@ -117,4 +116,3 @@ Join our community conversations!
 - [Facebook](https://www.facebook.com/wwcodelondon/)
 - [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
 - [Meetup](https://www.meetup.com/women-who-code-london/)
-
