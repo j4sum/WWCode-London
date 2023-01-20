@@ -86,7 +86,18 @@ Passionately argued, superbly researched, and filled with indelible stories of r
 <td>
 The Myth of the Nice Girl by Fran Hauser                                     
 <td>
-In The Myth of The Nice Girl, Fran Hauser deconstructs the negative perception of "niceness" that many women struggle with in the business world. If women are nice, they are seen as weak and ineffective, but if they are tough, they are labeled a bitch.                                                   
+In The Myth of The Nice Girl, Fran Hauser deconstructs the negative perception of "niceness" that many women struggle with in the business world. If women are nice, they are seen as weak and ineffective, but if they are tough, they are labeled a b*tch.                                                   
+<td>
+<tr>
+
+<tr>
+<td><b>
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436202607i/3735293.jpg" />
+<td>
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin                                    
+<td>
+Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.
+Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code - of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and "smells" gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code.                                              
 <td>
 <tr>
 
