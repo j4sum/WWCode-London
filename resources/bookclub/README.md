@@ -10,7 +10,7 @@ Participating in our book club is a fantastic way to read concisely and take mor
 
 ## CURRENTLY READING
 
-- No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings, Erin Meyer 
+- No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings, Erin Meyer :no_entry_sign:
 
 ### PAST BOOKS
 
@@ -28,7 +28,7 @@ What does it take for women to succeed in a male-dominated world? The Grit Facto
 This slate of decorated leaders includes Heather Penney, one of the first female F-16 pilots, who was put on a suicide mission for 9/11; General Ann Dunwoody, the first female four-star general in the Army; Amy McGrath, the first female Marine to fly the F/A-18 in combat and a 2020 candidate for the US Senate—and dozens of other unstoppable women who got there first, including Polson herself.
 
 <td>
- <b>[Grit Factor](https://iren-kamalova.medium.com/grit-factor-cc597dbf107f)</b>
+ <b>Read our blog by [Irina Kamalova](https://iren-kamalova.medium.com/grit-factor-cc597dbf107f)</b>
 <tr>
   
 <tr>
