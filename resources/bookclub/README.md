@@ -69,7 +69,7 @@ In The Culture Map, INSEAD professor Erin Meyer is your guide through this subtl
 <td><b>
   <img src="https://cdn.waterstones.com/bookjackets/large/9780/1410/9780141029191.jpg" />
 <td>
-Quiet by Susan Cain                                     
+Quiet by Susan Cain                                    
 <td>
 In Quiet, Susan Cain argues that we dramatically undervalue introverts and shows how much we lose in doing so. She charts the rise of the Extrovert Ideal throughout the twentieth century and explores how deeply it has come to permeate our culture. She also introduces us to successful introverts—from a witty, high-octane public speaker who recharges in solitude after his talks, to a record-breaking salesman who quietly taps into the power of questions.
 
@@ -96,7 +96,9 @@ In The Myth of The Nice Girl, Fran Hauser deconstructs the negative perception o
 Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin                                    
 <td>
 Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.
-Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code - of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and "smells" gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code.                                              
+
+Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code - of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and "smells" gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code.
+
 <td>
 <tr>
 
