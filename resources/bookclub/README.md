@@ -10,7 +10,7 @@ Participating in our book club is a fantastic way to read concisely and take mor
 
 ## CURRENTLY READING
 
-- Clean Code A Handbook of Agile Software Craftsmanship by Robert C. Martin 💻
+- No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings, Erin Meyer 
 
 ### PAST BOOKS
 
@@ -48,7 +48,7 @@ Radical candor is the sweet spot between managers who are obnoxiously aggressive
 
 <tr>
 <td><b>
-  <img src="https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529038347.jpg" />
+  <img src="https://cdn.waterstones.com/bookjackets/large/9781/2604/9781260474183.jpg" />
 <td>
 Crucial Conversations by Joseph Grenny & Kerry Patterson              
 <td>
@@ -58,7 +58,7 @@ Crucial Conversations: Tools for Talking When Stakes are High discusses how to h
 
 <tr>
 <td><b>
-  <img src="https://cdn.waterstones.com/bookjackets/large/9781/2604/9781260474183.jpg" />
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488319495i/22085568.jpg" />
 <td>
 The Culture Map by Erin Meyer               
 <td>
