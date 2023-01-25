@@ -3,7 +3,7 @@
 Mentorship is a fantastic way to get support for your personal growth and career development.
 For mentors, it is a meaningful way of giving back and making a contribution.
 
-See all details about the program in [wwcode-mentorship.carrd.co](https://wwcode-mentorship.carrd.co).
+See all details about the program in [https://womenwhocode.github.io/london](https://womenwhocode.github.io/london).
 
 ## Network
 
