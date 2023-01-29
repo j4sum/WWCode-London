@@ -4,13 +4,13 @@ The official book club resource page for WWCode-London 📚
 
 We love deep discussions and delightful insights!
 
-🗨️ It helps to have different perspectives and ideas regarding the topics covered in the books 💬
+It helps to have different perspectives and ideas regarding the topics covered in the books 💬
 
 Participating in our book club is a fantastic way to read concisely and take more experience from the books! 📖
 
 ## CURRENTLY READING
 
-- No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings, Erin Meyer :no_entry_sign:
+- TBA :loudspeaker:
 
 ### PAST BOOKS
 
@@ -98,6 +98,19 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.
 
 Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code - of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and "smells" gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code.
+
+<td>
+<tr>
+
+<tr>
+<td><b>
+  <img src="https://cdn.waterstones.com/bookjackets/large/9780/7535/9780753553633.jpg" />
+<td>
+No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings, Erin Meyer                                   
+<td>
+Netflix cofounder Reed Hastings reveals for the first time the unorthodox culture behind one of the world's most innovative, imaginative, and successful companies.
+
+Netflix, which launched in 1998 as an online DVD rental service, has had to reinvent itself over and over again. This type of unprecedented flexibility would have been impossible without the counterintuitive and radical management principles that cofounder Reed Hastings established from the very beginning. Hastings rejected the conventional wisdom under which other companies operate and defied tradition to instead build a culture focused on freedom and responsibility, one that has allowed Netflix to adapt and innovate as the needs of its members and the world have simultaneously transformed.
 
 <td>
 <tr>
