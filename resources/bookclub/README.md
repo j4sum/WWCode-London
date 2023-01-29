@@ -14,7 +14,7 @@ Participating in our book club is a fantastic way to read concisely and take mor
 
 - TBA :loudspeaker:
 
-### PAST BOOKS
+## PAST BOOKS
 
 <table>
 <tbody>
