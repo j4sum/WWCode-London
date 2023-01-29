@@ -1,6 +1,6 @@
 # **BOOK CLUB**
 
-The official book club repo for WWCode-London 📚
+The official book club resource page for WWCode-London 📚
 
 We love deep discussions and delightful insights!
 
@@ -57,7 +57,7 @@ Crucial Conversations: Tools for Talking When Stakes are High discusses how to h
 
 <tr>
 <td><b>
-  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488319495i/22085568.jpg" />
+  <img src="https://cdn.waterstones.com/bookjackets/large/9781/6103/9781610392501.jpg" />
 <td>
 The Culture Map by Erin Meyer               
 <td>
@@ -109,12 +109,9 @@ Clean Code is divided into three parts. The first describes the principles, patt
 &nbsp;
 &nbsp;
 
-## Social
+<!-- ## Social -->
 
 Join our community conversations!
 
-- [Slack](https://join.slack.com/t/wwcodelondon/shared_invite/enQtNjgwNjc4Nzk1MTQxLTU0NjkwMDBkYWIwZjVmYzBjZDkzMzJiM2YyYzU1ODdhZDM3YzU2ZjMyNzE4NWZhNTE0YTRlZGU5NmI1NTkwMDY)
-- [Twitter](https://twitter.com/WWCodeLondon)
-- [Facebook](https://www.facebook.com/wwcodelondon/)
-- [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
+- [Slack](https://wwcodelondon.slack.com/archives/C01RX3S1Z4Z)
 - [Meetup](https://www.meetup.com/women-who-code-london/)
