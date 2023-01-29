@@ -6,6 +6,8 @@ We love deep discussions and delightful insights!
 
 It helps to have different perspectives and ideas regarding the topics covered in the books 💬
 
+🗨️ It helps to have different perspectives and ideas regarding the topics covered in the books 💬
+
 Participating in our book club is a fantastic way to read concisely and take more experience from the books! 📖
 
 ## CURRENTLY READING
@@ -122,7 +124,7 @@ Netflix, which launched in 1998 as an online DVD rental service, has had to rein
 &nbsp;
 &nbsp;
 
-<!-- ## Social -->
+## Social
 
 Join our community conversations!
 
