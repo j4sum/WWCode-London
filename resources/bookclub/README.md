@@ -4,15 +4,17 @@ The official book club resource page for WWCode-London 📚
 
 We love deep discussions and delightful insights!
 
+It helps to have different perspectives and ideas regarding the topics covered in the books 💬
+
 🗨️ It helps to have different perspectives and ideas regarding the topics covered in the books 💬
 
 Participating in our book club is a fantastic way to read concisely and take more experience from the books! 📖
 
 ## CURRENTLY READING
 
-- No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings, Erin Meyer :no_entry_sign:
+- TBA :loudspeaker:
 
-### PAST BOOKS
+## PAST BOOKS
 
 <table>
 <tbody>
@@ -102,6 +104,19 @@ Clean Code is divided into three parts. The first describes the principles, patt
 <td>
 <tr>
 
+<tr>
+<td><b>
+  <img src="https://cdn.waterstones.com/bookjackets/large/9780/7535/9780753553633.jpg" />
+<td>
+No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings, Erin Meyer                                   
+<td>
+Netflix cofounder Reed Hastings reveals for the first time the unorthodox culture behind one of the world's most innovative, imaginative, and successful companies.
+
+Netflix, which launched in 1998 as an online DVD rental service, has had to reinvent itself over and over again. This type of unprecedented flexibility would have been impossible without the counterintuitive and radical management principles that cofounder Reed Hastings established from the very beginning. Hastings rejected the conventional wisdom under which other companies operate and defied tradition to instead build a culture focused on freedom and responsibility, one that has allowed Netflix to adapt and innovate as the needs of its members and the world have simultaneously transformed.
+
+<td>
+<tr>
+
 </tbody>
 </table>
 
@@ -109,7 +124,7 @@ Clean Code is divided into three parts. The first describes the principles, patt
 &nbsp;
 &nbsp;
 
-<!-- ## Social -->
+## Social
 
 Join our community conversations!
 
